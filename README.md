@@ -6,8 +6,20 @@ On the [PTAnnotated website](https://digbmc.github.io/pt-annotated/), certain sc
 
 I used a network graph to best show the connections between references. The hope is that this graph could be expanded to include other PTA films, exhibiting which works he tends to allude to multiple times. 
 
-<iframe src="https://claraeks.github.io/dataviz/#" title="Punch-Drunk Love Visualization" height="500" width="800" allowfullscreen></iframe>
+## Guide to graph
 
-My visualization shows...
+The graph is made up of nodes and edges. Nodes are the media being referenced and can be clicked on in order to see metadata such as year and creator. You can also see which annotated screenshot the information is being pulled from.
 
-## Bibliography
+The media types that align with the colors are films, artwork, books, creators, and genres. Creators refer to people whose style or type of work is being referred to, but not a specific product of theirs (e.g. Charlie Chaplin's physical comedy). Genres similarly refer to the thematic and structural elements shared throughout a category, but not a specific piece of media (e.g. high sharp music in horror movies).  
+
+<iframe src="https://claraeks.github.io/dataviz/#" title="Punch-Drunk Love Visualization" height="500" width="80%"></iframe>
+
+See full screen version [here](https://claraeks.github.io/dataviz/#).
+
+## Methodology
+
+All data was pulled from the PTAnnotated website, I hand inputed it into CSV files to make up a collection of nodes and edges. The graph was developed using Gephi, exported using Sigma.js, hosted on [GitHub](https://github.com/claraeks/dataviz), and the interactive element was created using tools from the Oxford Internet Institute [InteractiveVis project] (https://github.com/oxfordinternetinstitute/InteractiveVis).
+
+This graph only represents a portion of the current annotations for Punch-Drunk Love, it is meant to be a sample of what could be done with this data and is not indicative of the entire film or project. Some annotations were specifically not included as I was unsure how to visualize the connection
+
+
