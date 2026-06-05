@@ -6,7 +6,7 @@ On the [PTAnnotated website](https://digbmc.github.io/pt-annotated/), certain sc
 
 I used a network graph to best show the connections between references. The hope is that this graph could be expanded to include other PTA films, exhibiting which works he tends to allude to multiple times. 
 
-## Guide to graph
+## Guide to Graph
 
 The graph is made up of nodes and edges. Nodes are the media being referenced and can be clicked on in order to see metadata such as year and creator. You can also see which annotated screenshot the information is being pulled from.
 
@@ -18,7 +18,7 @@ See full screen version [here](https://claraeks.github.io/dataviz/#).
 
 ## Methodology
 
-All data was pulled from the PTAnnotated website, I hand inputed it into CSV files to make up a collection of nodes and edges. The graph was developed using Gephi, exported using Sigma.js, hosted on [GitHub](https://github.com/claraeks/dataviz), and the interactive element was created using tools from the Oxford Internet Institute [InteractiveVis project] (https://github.com/oxfordinternetinstitute/InteractiveVis).
+All data was pulled from the PTAnnotated website, I hand inputed it into CSV files to make up a collection of nodes and edges. The graph was developed using Gephi, exported using Sigma.js, hosted on [GitHub](https://github.com/claraeks/dataviz), and the interactive element was created using tools from the Oxford Internet Institute [InteractiveVis project](https://github.com/oxfordinternetinstitute/InteractiveVis).
 
 This graph only represents a portion of the current annotations for Punch-Drunk Love, it is meant to be a sample of what could be done with this data and is not indicative of the entire film or project. Some annotations were specifically not included as I was unsure how to visualize the connection
 
