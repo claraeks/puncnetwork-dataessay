@@ -6,7 +6,7 @@ On the [PTAnnotated website](https://digbmc.github.io/pt-annotated/), certain sc
 
 I used a network graph to best show the connections between references. The hope is that this graph could be expanded to include other PTA films, exhibiting which works he tends to allude to multiple times. 
 
-<iframe src="https://claraeks.github.io/dataviz/#" title="Punch-Drunk Love Visualization" height="300" width="500" allowfullscreen></iframe>
+<iframe src="https://claraeks.github.io/dataviz/#" title="Punch-Drunk Love Visualization" height="500" width="800" allowfullscreen></iframe>
 
 My visualization shows...
 
