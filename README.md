@@ -12,7 +12,7 @@ The graph is made up of nodes and edges. Nodes are the media being referenced an
 
 The media types that align with the colors are films, artwork, books, creators, and genres. Creators refer to people whose style or type of work is being referred to, but not a specific product of theirs (e.g. Charlie Chaplin's physical comedy). Genres similarly refer to the thematic and structural elements shared throughout a category, but not a specific piece of media (e.g. high sharp music in horror movies).  
 
-<iframe src="https://claraeks.github.io/dataviz/#" title="Punch-Drunk Love Visualization" height="500" width="80%"></iframe>
+<iframe src="https://claraeks.github.io/dataviz/#" title="Punch-Drunk Love Visualization" height="600" width="900"></iframe>
 
 See full screen version [here](https://claraeks.github.io/dataviz/#).
 
