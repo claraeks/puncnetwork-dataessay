@@ -1,6 +1,6 @@
 # Punch-Drunk Love Data Essay
 
-On the [PTAnnotated website](https://digbmc.github.io/pt-annotated/), certain screenshots of Punch-Drunk Love are marked with the "intertextualities" tag. These specific screenshots contain references to other pieces of media. However, there is no way to see all the works being referenced without going through the screenshots one by one. The purpose of this data visualization is to allow users to easily see the connection between references, as well as the type of media being referenced (film, book, etc.).
+On the [PTAnnotated website](https://digbmc.github.io/pt-annotated/), certain screenshots of Punch-Drunk Love are marked with the "intertextualities" tag. These specific screenshots contain references to other pieces of media. However, there is no way to see all the works being referenced without going through the screenshots one by one. The purpose of this data visualization is to allow users to easily see the connection between references, as well as the type of media being referenced (film, book, etc.). Even from this small sample, it is possible to see that a majority of the references are to other films.
 
 ## Network Graphs
 
@@ -8,7 +8,7 @@ I used a network graph to best show the connections between references. The hope
 
 ## Guide to Graph
 
-The graph is made up of nodes and edges. Nodes are represent the media being referenced and can be clicked on in order to see metadata such as year and creator. You can also see which annotated screenshot the information is being pulled from.
+The graph is made up of nodes and edges. Nodes represent the media being referenced and can be clicked on in order to see metadata such as year and creator. You can also see which annotated screenshot the information is being pulled from.
 
 The media types that align with the colors are films, artwork, books, creators, and genres. Creators refer to people whose style or type of work is being referred to, but not a specific product of theirs (e.g. Charlie Chaplin's physical comedy). Genres similarly refer to the thematic and structural elements shared throughout a category, but not a specific piece of media (e.g. high sharp music in horror movies).  
 
